@@ -15,11 +15,13 @@
 
 ### (3) Initialize
 
-- Copy the list of team numbers from column `A` of `Team List` into column `A` of `Addl. Robot Data`, column `A` of `Average Comparison`, and column W of `Data Processor`
+- Copy the list of team numbers from column `A` of `Team List` into column `A` of `Addl. Robot Data`, column `A` of `Average Comparison`, and column `W` of `Data Processor`
 - Enter your team's team number into cell `C2` of `Picklist`
 - Select columns `B` through `Q` of the bottom filled row in `Average Comparison` and drag the green square in the bottom-right corner down until there is a filled row for each team in column `A`
 - Select the range `A2:T20` in `Data Processor` and drag the green square in the bottom-right corner down until you reach the row number that matches the value of the 'extra' cell from before
 - One-by-one, from top to bottom, copy and paste each value from column `W` of `Data Processor` into the **next empty black cell in column `A`** of the same sheet.
+
+**Now you're good to go!**
 
 ## Using VSD18
 
