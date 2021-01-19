@@ -9,7 +9,7 @@
 
 The VSD is a series of spreadsheets created by L375 (Nanjou), which were used to track and analyze FRC match data at various events from 2018 through 2020.
 
-The content in this repository is consireded archived and will not be updated except to fix critical issues.
+The content in this repository is considered archived and will not be updated except to fix critical issues.
 
 All content in this repository is licensed under the terms of the [MIT license](LICENSE).
 
