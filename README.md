@@ -52,7 +52,7 @@ Dependencies (included in VSD20 download): [VBA-JSON](https://github.com/VBA-too
 - Follow the steps under the `VSD Configuration` section of the `GUIDE` sheet
 
 <!-- Labels -->
-[license-img]: https://img.shields.io/github/license/Lowie375/VSD
-[18ver]: https://img.shields.io/github/package-json/18ver/Lowie375/VSD?color=5B95F9&label=VSD18%20version
-[19ver]: https://img.shields.io/github/package-json/19ver/Lowie375/VSD?color=7F4EC8&label=VSD19%20version
-[20ver]: https://img.shields.io/github/package-json/20ver/Lowie375/VSD?color=E32D91&label=VSD20%20version
+[license-img]: https://img.shields.io/github/license/lowie375/vsd
+[18ver]: https://img.shields.io/github/package-json/18ver/lowie375/vsd?color=5B95F9&label=VSD18%20version
+[19ver]: https://img.shields.io/github/package-json/19ver/lowie375/vsd?color=7F4EC8&label=VSD19%20version
+[20ver]: https://img.shields.io/github/package-json/20ver/lowie375/vsd?color=E32D91&label=VSD20%20version
