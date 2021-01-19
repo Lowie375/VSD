@@ -1,0 +1,32 @@
+{
+  "name": "vsd",
+  "18ver": "n/a",
+  "19ver": "1.5.1",
+  "20ver": "1.2.2",
+  "description": "VSD, a 2018-2020 FRC scouting spreadsheet archive",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lowie375/VSD"
+  },
+  "scripts": {},
+  "bugs": {
+    "url": "https://github.com/Lowie375/VSD/issues",
+    "email": "lowie375@gmail.com"
+  },
+  "author": "L375 (Nanjou O.)",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [
+    "VSD",
+    "VBA",
+    "Excel",
+    "Visual Basic",
+    "FRC",
+    "FIRST Robotics Competition",
+    "POWER UP",
+    "DESTINATION: DEEP SPACE",
+    "INFINITE RECHARGE"
+  ]
+}
