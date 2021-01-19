@@ -16,13 +16,13 @@ All content in this repository is licensed under the terms of the [MIT license](
 ### VSD18 (POWER UP)
 
 The VictoriaScoutingDatabase or VSD (now known as VSD18) is the first spreadsheet in the VSD series. It was created to analyze data from matches in the 2018 FRC season's game POWER UP. It is run solely using formulas, making it the least advanced of the VSDs.  
-In the original version of VSD18, the `Data Processor` sheet was extremely laggy. This was remedied through the use of two simple macros, thus why it is now macro-enabled.  
-This spreadsheet will require manual setup.
+In the original version of VSD18, the `Data Processor` sheet was extremely laggy. I made a quick patch for the version present in this repository using two simple macros, thus why VSD18 is macro-enabled even though it was not initially built as such.  
+This spreadsheet will require some manual setup.
 
 ### VSD19 (DESTINATION: DEEP SPACE)
 
 VSD2019 (now known as VSD19) is the second spreadsheet in the VSD series, created to analyze data from matches in the 2019 FRC season's game DESTINATION: DEEP SPACE. VSD19 heavily improves upon its predecessor, introducing many new data tracking categories and making use of a new macro-based processor to eliminate the extreme lag present in the original VSD18.  
-This psreadsheet will require manual setup, though not as much as VSD18 does.
+This spreadsheet will require some manual setup, though not as much as VSD18 does.
 
 ### VSD20 (INFINITE RECHARGE)
 
